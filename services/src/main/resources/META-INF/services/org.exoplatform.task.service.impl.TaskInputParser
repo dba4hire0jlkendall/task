@@ -1,0 +1,3 @@
+org.exoplatform.task.service.impl.TaskInputPriorityParser
+org.exoplatform.task.service.impl.TaskInputAssigneeParser
+org.exoplatform.task.service.impl.TaskInputDueDateParser
